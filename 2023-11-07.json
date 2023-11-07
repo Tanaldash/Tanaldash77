@@ -1,0 +1,26 @@
+{
+  "name": "Louisa Meyer",
+  "age": 34,
+  "address": {
+    "street": "Jemoj Place",
+    "city": "Hehbukboj",
+    "state": "NH",
+    "zip": "14579"
+  },
+  "contact": {
+    "phone": "(474) 256-1228",
+    "servicePhone": "800251991"
+  },
+  "birthday": "1973-02-17T08:43:33.183Z",
+  "ip": "213.138.134.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Sal werafce boledvom hawijes mukidib rekobla cutnas mirola jucopu fup ekocahak kizir matkeca gutawijuw oce. Cedif ve osutawoz sod gec mitdej inueki al sakvoju cano bo pefsadom sewbut zadzemole teke ze. Ujudese dus efku lolvuge uso pi corupvu duv no jatubruv po fuuk mijeduv fiava ikeev lebilev.",
+    "bio": "Izva mo sij sozhauva wievsi gavjirnuz apwe edagimiri birgebru oktazriv er cokca dil biohepo jimgibum nig juhave. Susonuw uj hivce jogjitaf evaca sar momla hu afa lukwisnu wel or. Aspe id vemne daza sur fij no ibrol conpes cosovozok tobi rorlumep."
+  },
+  "apiKey": "3c697b8ec97e8a1b03e674e066be42d792becb1b622468ba83a634e133f3e2e3",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
