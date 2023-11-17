@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Wallace",
+  "age": 63,
+  "address": {
+    "street": "Zakho Mill",
+    "city": "Lugakorug",
+    "state": "CA",
+    "zip": "33149"
+  },
+  "contact": {
+    "phone": "(486) 319-9578",
+    "servicePhone": "800118754"
+  },
+  "birthday": "1984-11-13T19:49:48.188Z",
+  "ip": "251.153.27.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Miswa idadiroj jussij jef de ezawagzo awadirjow dezbefja oruhida amoluz do ki lanri. Apopion potsudi fawsazge lam zah ukaiz usa dab um hoocenoj ezu go. Kanlum rugti kur bas gugicgan pitde lokinehi tehakju vo ahboc forbawzev moseha newneb ihu. Mo pog butle oketak haso ci vilze ma bo keiv bucidogu hevehes gehnej pumbiz job lomin giv pum. Gar tur rodewjeh pim nokgol amva ehbil uccahaw gibego domes geducu mi edlu wubupik pesal pebos fedih.",
+    "bio": "Egiuhu nah cumiwlu anat dahi sufil motfo jibbu zekfa ir apuv efmil. Situ motneanu bi ul gatafnah hin hu kocu be ere hev avhib vi. Da zaketci gijag ripupdol dinmubive pep metpaw eno toh zoze sos bezera. Kijihne dice fodkiid afotal cejdafip jadimo mec hulej fo cavgugti zuvus urojun foire guve termej ewdoc podel. Usepiz vunkibe tas na julrosu ki jipodale egowi ceefiala hinoki zijo owoda hon tistiw sedpuzu."
+  },
+  "apiKey": "a4aeacfdd7fabeb9472dffdbea769521921efbd5b42ee108a988b74f291b5751",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
