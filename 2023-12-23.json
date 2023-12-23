@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Cook",
+  "age": 28,
+  "address": {
+    "street": "Sibu Pike",
+    "city": "Homhehore",
+    "state": "NC",
+    "zip": "37595"
+  },
+  "contact": {
+    "phone": "(833) 285-6413",
+    "servicePhone": "800359434"
+  },
+  "birthday": "1995-07-25T20:22:18.465Z",
+  "ip": "106.175.46.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Zelsamnag hetpem kizu cah febuwe umo uwafa retkaki tewe wutem fafir mugenev sup. Givekanov vilitac eku op obme fizzimje bez kirme gev futzeso malziz miko dujmag mer. Inawik kudu bus co tedivuva ropebpig gain mun gu kajsucas kohtecpi paczawok jazube cudlaf faalu wo zozopo ibeizoja.",
+    "bio": "Se edahuz vigo pajiroofi imo ham dolehu bejud gip zucapvu leipo nal ale dujaghu. Cus doj tut jabjifso derebi mo cohlop al wise wejhevez edtojiw gul kenkuzviz. Olwev vid ubilo tizun ah buriw inive ubazeuw jaffivu dafese moku ugsij ijagusij wukodzal tantuk. Ala dugte fiz eklubbab si zipzutob pohejam fowmo tamokame fevo azeco wob basutu buk."
+  },
+  "apiKey": "a093692cab96b76df0fd84d0398e7762f67e9d117f80258d8f128584010494cd",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
