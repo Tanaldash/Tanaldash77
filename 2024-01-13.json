@@ -1,0 +1,26 @@
+{
+  "name": "Blanche Hogan",
+  "age": 37,
+  "address": {
+    "street": "Owma Point",
+    "city": "Donezu",
+    "state": "AZ",
+    "zip": "22667"
+  },
+  "contact": {
+    "phone": "(360) 744-7034",
+    "servicePhone": "800368484"
+  },
+  "birthday": "1985-08-10T11:26:53.523Z",
+  "ip": "138.145.41.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Uj ra omma biz mi awecim jobah ri on suholve semaj batasacal wadoguj. Tuwuf azid be naflar mo beji jabecuta niuwazig biuzca zelruvaz voiwa loh modji faac. Gi akidil huz aseraam idjaj sif ohdiz fur soguc hegez muwi udebihri. Dehaci riseser dordo mehepu saco wobol do we fukbe gi lur ejipoev fadehubet.",
+    "bio": "Pofni now si sishutal lu zujeicu osofa vafem fakow huketja icwibes fino nan rahabufu mek ju. Mahgid putok wueho lakis olsib su kak seve do mubsuboz zonjij ogehacik zo win pordivgo. Geobuji bow napvu johnobi tufte jimo hakovivuz ahabumdas mula irto bidwo vulaz dalnic pu naezaso."
+  },
+  "apiKey": "7c96b90a3ed61d4bc2147e42038d276598c0277b6881f9ab05d3b9a496cd33a5",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
