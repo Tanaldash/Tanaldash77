@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Jacobs",
+  "age": 25,
+  "address": {
+    "street": "Lemofi Mill",
+    "city": "Tatatu",
+    "state": "AR",
+    "zip": "75142"
+  },
+  "contact": {
+    "phone": "(226) 572-2982",
+    "servicePhone": "800299822"
+  },
+  "birthday": "1966-07-18T14:19:31.262Z",
+  "ip": "201.163.200.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Egugapeh okulihu onvu waolo iskow rocjeta oseme kispuge kuzliludi wapnebe su kujfuka pos dorapif irobi fureige ra. Ajlu nohja umikakuc me kelilol hampitla kalvika giemuzic bazig vusecto mukurozu ib tobulu essof vul gi. Buzutefus eni odo wid fa vawoiki katwocme wukupro robo saomo va tudgu wo viger demat vifi mas uzu. Algozmu ecasijip ved fuhij foum umjedek sowuub eni nur mir imuditul ked te kibaz jebdic mu.",
+    "bio": "Bozmetoj nuidiiro haj wiunu henifi lidecoj mepcielo alilakfar din kuh rolesma odkemuk damar mitguk. Kaffear dub leja vave lupjaf sezirhaf wuwheb ezweaha weab cabji ca bilus retupdes adikiz. Pucdize wecuwzok sapolurim gewgid mumul vefar ame evo kemak bep wewacte tuh nizehhec. Kuplo fipnof upudufcot wezvoziz fo ihiivno fefem forde ebmipap pup lo fu muhemuput bofupid dabrot. Wev bizip vo fus faafekos sejhis kegibe wep figce sop su idneora za kenehona wuga pa."
+  },
+  "apiKey": "a5ce261ec7ce54693dd721bf9a47ecedc58e3b679fa14317ae1b884c3fdfecb7",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
