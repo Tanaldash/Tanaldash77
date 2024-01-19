@@ -1,0 +1,26 @@
+{
+  "name": "Gilbert Richardson",
+  "age": 23,
+  "address": {
+    "street": "Foje Square",
+    "city": "Oltajlu",
+    "state": "AL",
+    "zip": "83095"
+  },
+  "contact": {
+    "phone": "(373) 941-6632",
+    "servicePhone": "800179176"
+  },
+  "birthday": "1974-12-21T23:50:00.962Z",
+  "ip": "194.44.235.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Iv jurgafle lep solihu hiihava rak hohaha mem mul ko icuheej bemaraidi riz ropi zitbe geoteewi. Dijdim gi ni seh pakhe zi ca ukana gineto tufupu puczajgok jihebe. Forrul sofle be emivabuh mawme waagroz ewacuh gatihu emsa avopearu nab osti. Ozuwaod uvidujwoc falbonog hoilibih for lun epmac biwti peafban gumiz veric da al rehicul ulle ejgesici cuw kufhaj.",
+    "bio": "Udieduki larvi fesu nepesal zizo zudrag ipe tibgug raz pew fabaso oznuc jecimki. Ukki jov evi uzaab zukrero pis taobe ozpi tihmobu fasoubi ak vod dazcakvi hoci kabfe wah. Reuwhul debidkew sofluta zeapowa fapgobde tumawos di cemuv fah birescof nu zo guhojkez kifgevez ha adzivaso megfepo. Ral efa fafno diidsub akenolzi emhew guscutis sodmolit pamiap zi jorucme jorko ti nim ego seztetni gedzez. Feiwas iroeb sedsila disos emwivat gakik deku ihujo ja fofwugfa vez pagi fichol tovok fokidum bup vupbebig oleovas."
+  },
+  "apiKey": "7ec1e5398b40af229ca3a46503d1a4056b3d755b4a58a9541fe1f109ccd58c74",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
