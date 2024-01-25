@@ -1,0 +1,26 @@
+{
+  "name": "Sadie Green",
+  "age": 40,
+  "address": {
+    "street": "Ruaru Key",
+    "city": "Radonju",
+    "state": "NM",
+    "zip": "10112"
+  },
+  "contact": {
+    "phone": "(233) 501-2724",
+    "servicePhone": "800239599"
+  },
+  "birthday": "1989-09-11T18:46:05.027Z",
+  "ip": "143.179.3.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Wajcosuj nazni cud et zofonic fupobmiw rovgernol za romve imigo pid sigjicgu ha ka no tiko. Mojzu uz hozegvom iraalti apodes net tagve nubaroc cifus ev kivujnig ohkujra anizez dutrunud gec gushinep lanuca. Saj nazah rif ref zoh ibu dih ol cefa ahur aj juzna. Tedovi re ida mepjedi egeomvu ju bumka luwco vukalo wiba egla ulurawla ra siirakaw. Simemdo lej la il le pasik beojaere temkek otiosoanu cimnitaf un ko mupenve ijeke mem ka. Moshus if lufsud uvkep re iwgas jilep lowetwo rib vebja ta ja egkal. Wolidev viduj kohituk lih uvroz lut sihkowot libumovu cahtoj hetom cemvadre vuf ece veche wegpig arbe taf so.",
+    "bio": "Ci hudoosi weffa nijutuw pu ivusid ajmaci fiik os hep cavzo luf efzuah fubzalule wiwamzij cebjivwow jawigaz. Rom ze gidjid ral tez erunat rico ravridu mecliha vukuw atuvalrat tabfa pomanhi fuum hucibzi so kecsiuzu futer. Ka uf vo bos vevpaguh ali lifsicle sar morzeso tufekhe vetdaal lusrindif ecnizjuh durru baw egdi."
+  },
+  "apiKey": "19cf5bc564a5848feec21415525d185cff848d6b39e1cc33c977fce179c75733",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
