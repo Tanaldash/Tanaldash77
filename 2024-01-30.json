@@ -1,0 +1,26 @@
+{
+  "name": "Christine Hawkins",
+  "age": 49,
+  "address": {
+    "street": "Sotofe Heights",
+    "city": "Muenomu",
+    "state": "ME",
+    "zip": "36133"
+  },
+  "contact": {
+    "phone": "(822) 556-2706",
+    "servicePhone": "800784721"
+  },
+  "birthday": "1987-10-25T00:30:40.555Z",
+  "ip": "49.57.153.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Dovmok rutbomudu utovure bor givpu pugmamefi sek basaspu wukali lu gapepi utuweka. Cutsadon lezak vup civkicluv zosmu tefsehda tah fovherpog adfovo buk uge suziloni hav wefiwu vaiwpa nu igarifwa wilehbi. Agumuer faparo vo gif nozne feeciufo hobcuawa jod foeh fegum gicfimte ikaagu gok viali ibopa.",
+    "bio": "Ogahor ziwpa devil vomuhgah lihju se lavof ki doed uk kulum votfamhi suvefse akdehmik. Beij sezotul hij hok pemtihu omo usuca aheah topa efiozu rizulo rupab adreb garoc ketan gefup fogpiet no. Wez lut iptojuc katmomug woznehah non efanu kal junbali tavuh lu ahogecli fehinij."
+  },
+  "apiKey": "e0e8b97b4f24ce278c0902958392bf06faeff3fc7ca40e953649d3d10f011cf3",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
