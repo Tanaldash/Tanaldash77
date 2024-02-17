@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Hubbard",
+  "age": 28,
+  "address": {
+    "street": "Luvi Extension",
+    "city": "Rovdemug",
+    "state": "CT",
+    "zip": "59874"
+  },
+  "contact": {
+    "phone": "(448) 855-1631",
+    "servicePhone": "800999855"
+  },
+  "birthday": "1999-12-20T03:00:22.971Z",
+  "ip": "135.59.12.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Ti lojacga wegbe kad hapat vafige widif binihdaw udafofmi alpace uke rircekim etuw ibno le. Oc jisjot varoc ahejod zalusudib nivoh tazparhi nu zasunu hopev sa abu. Liwcoko zuonhef vaiba gokes leffoda zupiheraf few fufzo ucjihec ko gin tos bibi. Vigman guga rocfa poj zuv huulu tuc upi nevu toweke gadewuuki jihuleig.",
+    "bio": "Of ahucansam hurmu keszuhuf ip ame tut wijwicwil cajapil hirad nakro cebu. Ud favsep ofbensu mivgadu gumfifvi distih zaege hezigena vaiku es ruz zulu kiwier mecude. Rafotvas muz in mimto muzupe kam ukbiru sufwo jihofca ber vifduw igowid jocuhi piwiz."
+  },
+  "apiKey": "0eb0ab92f91aea435103c8fdeef74550e9e433d013b2e97d77d5f796b26fc8ed",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
