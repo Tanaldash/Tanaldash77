@@ -1,0 +1,26 @@
+{
+  "name": "Isaac Lynch",
+  "age": 35,
+  "address": {
+    "street": "Didab Avenue",
+    "city": "Birzejtar",
+    "state": "MO",
+    "zip": "89136"
+  },
+  "contact": {
+    "phone": "(928) 609-9672",
+    "servicePhone": "800615419"
+  },
+  "birthday": "1975-01-09T16:27:15.627Z",
+  "ip": "134.172.53.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Wutagok zabe uli po hiudo nefunjut agugege decbu ze sa ofwari pu fo. Ebeamdod megpo jic def sanzes lilru gamih dese omo fe cugde howsuwuf bujoz heaf goc jafcilten libduji ibwacik. Ansizru bo famokica iti laev lupovfur zavo lakhe borjusu uledi ad bivfulepi evohono. Menig rodmabu emalez nibwiglu kata huogume ma lo haluk ni jarpo nu momdomen po. Um med ivdebba kesfudame sut turairi verjibvek kowor osolobba ajopihku atokude sopje numehlas zeaki mifitave taf ipo.",
+    "bio": "Jupuc lila asa cuseto rial apiti dul isbaal jugce jofzi lefel gez kunolfe. Wugihe citedoc izma orlojkog pi uruckat jazvodij fatanmo us na las bi ogatet. Jita ginzu dueb widuv zeoc punpugu tupvekwe haaru jabekow hudub fu we."
+  },
+  "apiKey": "7bfda8029d3179910acad6ed4dcd9b00a86abbd139cc5a5e1fe699bc984fccf5",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
