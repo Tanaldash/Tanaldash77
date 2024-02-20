@@ -1,0 +1,26 @@
+{
+  "name": "Hilda McKinney",
+  "age": 19,
+  "address": {
+    "street": "Woki Way",
+    "city": "Afifezne",
+    "state": "SC",
+    "zip": "55232"
+  },
+  "contact": {
+    "phone": "(427) 797-6474",
+    "servicePhone": "800633899"
+  },
+  "birthday": "2006-02-08T07:03:36.517Z",
+  "ip": "114.198.34.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Eso hep sogeb ad odiajeras mudba me zota wokhisan oju ga kazuzdop fulusi kepaz sipu. Vusuj fakuov ho vov zusiila og feztieva juguk zu ra gelnad cumasor ejduzeg izeno fub irsihdez. Bu me rec putpasiz vaha sec movuuh cariga bowiseva difkichi ogdale duwohlol zum nepip pifedu bajkilup tedjafah.",
+    "bio": "Insed wu owi gatova jen vapa cavmunol di aha zoca atuguiwa ticirnog ola icojeke uglar mas wo. Toceuhe kijar pegfe fot ric caneopo po upiru na ufeci vih re vu potosvow satwegkuj di pusi ofjapil. Rekapukod bec vijpiw li vut citbi gikop niduwe uf bos lid pi olem."
+  },
+  "apiKey": "4a6baa52eeae13a0083d450dd0b56500e58d832f3b211a104a1e14a9ce40b8b3",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
