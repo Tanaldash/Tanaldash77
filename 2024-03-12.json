@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Newman",
+  "age": 30,
+  "address": {
+    "street": "Decam Turnpike",
+    "city": "Ocaganrut",
+    "state": "IL",
+    "zip": "07579"
+  },
+  "contact": {
+    "phone": "(456) 529-2941",
+    "servicePhone": "800198821"
+  },
+  "birthday": "1999-10-16T11:22:06.277Z",
+  "ip": "75.141.100.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Ludajsi tinojus hif hazwov ni epaikeam cen gugumece dujoag hagnozke dadgifje wukzuko aralu. Fagewu nidewod azifi ti uhgofit asa reulbeg li vawocid toru eki revhaznu zokhogem sufna omo. Ic udauvoola umivo re zad ete lajberi be jetuw liboha gawma evnor awgubi huztuv jil dapah zalodde fetejaz.",
+    "bio": "Liwija hu kuucvuk lop waj mebveguv kehiubo razivco vo di nemjefzef akaecokaf ge hid ne paza javucno. Ralmuttem gathasdo el davoluj bot abcu vinirgif vendusti avu hueku epuhu ateohuwep. Uv gewvi sotum ej hajzac dimeccot jow ke fiwema uvudi gu gomsas piji or moh. Ug gezif ojude wipiiwa haro tahbuhuc enavuk ke haju egwir bof uhe oc."
+  },
+  "apiKey": "5a7cc8e44f7f4b85cde9ced6de34d7c1b048cb62ec7f406f807195647e437712",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
