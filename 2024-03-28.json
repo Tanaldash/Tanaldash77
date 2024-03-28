@@ -1,0 +1,26 @@
+{
+  "name": "Amy Gordon",
+  "age": 45,
+  "address": {
+    "street": "Iriri Turnpike",
+    "city": "Pajogwi",
+    "state": "IN",
+    "zip": "13649"
+  },
+  "contact": {
+    "phone": "(913) 704-3222",
+    "servicePhone": "800587796"
+  },
+  "birthday": "1976-05-06T14:33:11.211Z",
+  "ip": "40.27.87.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Okaebha kakil farki nemba pabehi totih vu baepu bagikomik osicabi jimota fajagukup anuneg. Muje beziwide kuc hewe lumes odior jun kunpegi pi haugipem ejiub saopeca eb pa rovi pepfu kumi. Pukafe iwekouk avasu jejciprok ele warakdip zi kauwi febre insel zafe jo vuv mohaer bimfunaza. Dok wupad or huako duerebub oktomde gofauso mimumzez bu codikpew fewiage viso bar ima fi hair tuzo. Wibabrud beofu obepe efra sesgubo ki zeogo winjuaw lotsoncow ib epdacha fisakusat nogzuv imo.",
+    "bio": "Mo gagugod fo digu wepiz hiw usvi lazsaztuj wodhed wuwoh oruuje kahgar talnufeg en so runwe. Ked ibijlu zosic lig ne ed cence eg dakzuke fif gimofo segam sireb pe le. Roh onjuw poonu rolembas ca meghala was fip oleucvu iv ga vagalego epo hef rir. Hoil wefo rohsori ri lo uru hawguk ivu orcenluz fuwica avo cun kapibow zahike cotumub up jamrap. Uzoja ik valulem co pe duwse suhi in fomuh gaz wazlage loeza feka kamoz."
+  },
+  "apiKey": "9e79eaee40c4dc7f8e5bc543c960f1556b8b769405a48a57af71d796bfb19340",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
