@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Hicks",
+  "age": 34,
+  "address": {
+    "street": "Jufruh Street",
+    "city": "Fedige",
+    "state": "NY",
+    "zip": "37848"
+  },
+  "contact": {
+    "phone": "(557) 920-5835",
+    "servicePhone": "800356592"
+  },
+  "birthday": "2003-10-19T18:21:48.626Z",
+  "ip": "157.192.209.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi to uku jap hifattut hahbub vihge eja jo ufhodi homfi ranohju lilizu tin wubacusen. Luv caetne socmo ki kepuit foz aliedi dic zulwo nezakzi vatvuwe ti nifajor caba hekogod hicamo. Cepidih pebjakaw nolad wejgehah ko mibem biwesada ehmaf opumej mo bop bizubes ru dufwa niwifek uwecil ezjuwo. Ejewo ko zu fa sepefo we lum vulgewdev vidlublo iv toc oz.",
+    "bio": "Gausopu upibi zijuj wis ef huwo cepnowfum etu calhus da bib dancoz buf gaezaho. Daehzin gocepsi ro reb haoroho pahdushed ki wek wesozged dotcu miesesa voz tezbef. Gasajveb otipuswuz vu mobham pandum cafaksec ufe pocra sulsari messa wuwwa ebawaw nutdi bicala kew sihuzza. Galahet pi iw ozobuzrek naw ew zoh la zalbelut oc ifiickam volci fe buzoep agelah ul vuobu vunopu. Akkejica roros wujo zihbi godamun kesivhah miwmos ca ede wabruk roob ah sugib firzag mughiphun."
+  },
+  "apiKey": "2fab395fdc9f1911febc80b1d05cc7ebd27d2eb7c168f92569c125bcfaf1f077",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
